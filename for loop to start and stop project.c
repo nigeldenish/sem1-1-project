@@ -1,3 +1,8 @@
+
+//Nigel Denish
+//CT101/G/21623/24
+
+
 //for loop prompt values when to start and atop
 #include <stdio.h>
 int main(){
