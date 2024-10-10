@@ -1,6 +1,5 @@
-/*Nigel Denish
-CT1O1/G/21623/24
-*\
+//Nigel Denish
+//CT101/G/21623/24
 
 
 
@@ -10,7 +9,7 @@ CT1O1/G/21623/24
 int main(){
 	int start=0;
 	int stop=50;
-	
+	int  sum=0;
 	//enter start and stop values
 	printf("enter when to start:");
 	scanf("%d",&start);
@@ -20,8 +19,10 @@ int main(){
 	int i=start;
 	do{
 		printf("%d\n",i);
+		sum+=i;
 		i++;
 		}
 		while(i<=stop);
+		printf("sum is:%d",sum);
 		return 0;
 }
