@@ -1,3 +1,8 @@
+/*Nigel Denish
+CT101/G/21623/24
+*\
+
+
 //calculation of elaectricity Bill calculator
 #include <stdio.h>
 int main(){

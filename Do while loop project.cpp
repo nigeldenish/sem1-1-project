@@ -1,3 +1,9 @@
+/*Nigel Denish
+CT1O1/G/21623/24
+*\
+
+
+
 //Do while loop to start and stop values
 
 #include <stdio.h>
